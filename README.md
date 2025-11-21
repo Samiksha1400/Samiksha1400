@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Passionate Android Developer 📱 | Java Enthusiast ☕<br><br>Welcome to my GitHub! I'm Samiksha aka Sam, an enthusiastic Android developer with a strong command over Java. I specialize in crafting efficient and user-centered mobile experiences that users love to interact with.</p>
+<p align="left">Passionate iOS Developer 📱 | Swift & SwiftUI Enthusiast 🍎
+<br><br>Welcome to my GitHub! I'm Samiksha aka Sam, a dedicated iOS Developer who loves building clean, scalable and user-friendly mobile applications. I specialize in Swift, SwiftUI, and MVVM architecture and I enjoy turning ideas into smooth, intuitive app experiences.</p>
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p align="left">## 🚀 Expertise<br><br>📱 Android Development: With a proven track record of creating dynamic and polished Android applications, I leverage the latest tools and best practices to deliver top-notch user experiences.<br><br>☕ Java Proficiency: My deep understanding of Java programming enables me to architect robust solutions and implement intricate functionalities in my Android projects.<br><br>## 🔧 Tools & Technologies<br><br>- Android Studio 🛠️<br>- Java ☕<br>- XML 🧩<br>- Firebase Firestore 🔥<br>- Firebase Auth 🔐<br><br>## 📢 Let's Connect!<br><br>📧 Email: samikshark2000@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/samiksha-kudachikar-639283222</p>
+<p align="left">## 🚀 Expertise<br><br>📱 iOS Development: I build intuitive and high-quality iOS applications using Swift and SwiftUI, focusing on clean architecture and smooth user experiences.<br><br>☕ Swift and SwiftUI: I have strong knowledge of Swift programming, SwiftUI components, state management and modern UI development patterns.<br><br>🧩Architecture and Clean Code: I work with MVVM, modular code structure, reusable components, and best practices to create maintainable, scalable projects.<br><br>## 🔧 Tools & Technologies<br><br>- XCode 🛠️<br>- Swift ⚡<br>- SwiftUI 🎨 <br>- MVVM Architecture ✨ <br>- URLSession / API Integration 🌐 <br>- Firebase Firestore 🔥<br>- Firebase Auth 🔐<br><br>## 📢 Let's Connect!<br><br>📧 Email: samikshark2000@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/samiksha-kudachikar-639283222</p>
 
 ###
 
